@@ -1,0 +1,6 @@
+Message = {};
+	Message["dummy.breadcrumbs"] = 'Хлебные крошки';
+	Message["dummy.breadcrumbs.hello.world"] = 'Hello World!';
+	Message["dummy.hello.caption"] = 'Привет, друг! ;)';
+	Message["dummy.hello.description"] = 'Это новое приложение для Сбербанк Онлайн';
+	Message["dummy.link.workflow"] = 'Пример работы workflow';

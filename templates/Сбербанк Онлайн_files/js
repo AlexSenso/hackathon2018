@@ -1,0 +1,7 @@
+config = {};
+config["resUrl"] = "";
+config["baseUrl"] = "";
+config["pingUrl"] = "/ping";
+config["analyticsYandexId"] = "";
+config["userId"] = "";
+config["eribNode"] = "http://localhost:4242";

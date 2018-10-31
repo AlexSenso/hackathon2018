@@ -1,0 +1,4 @@
+navigation = {}
+navigation['investments.dashboard'] = '/sbtsbol/private/investments'
+navigation['investments.fund.orders'] = '/sbtsbol/private/investments/buy'
+navigation['MAIN'] = '/PhizIC/private/accounts.do'
